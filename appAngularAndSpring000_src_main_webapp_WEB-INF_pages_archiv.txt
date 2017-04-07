@@ -1,0 +1,10 @@
+
+//        $http({
+//            method: 'POST',
+//            url: 'task_write_7',
+//            data: {msg}
+//        }).success(function (data, status) {
+//            $scope.result_msg = data+" <<<<<";
+//            $scope.status_msg = status + " OK";
+//            $scope.msg=msg;
+//        });
